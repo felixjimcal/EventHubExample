@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2024-04-16T14:26:11.1900886Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-04-16T14:26:13.1906184Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DEV-International-Systems"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "feeb21ad-173f-483a-8763-ac0389f4f929"
+    }
+  }
+}

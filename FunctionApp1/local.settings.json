@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureEventHubConnectionString": "Endpoint=sb://fleurtopics.servicebus.windows.net/;SharedAccessKeyName=helloworld;SharedAccessKey=o9yumZB1X8USCQhcA/HNV7GTVxgmfEPYX+AEhIciafg=;EntityPath=holiday",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "66d98c66-20cb-451e-942f-8e5992c8aeff"
+  }
+}
